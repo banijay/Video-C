@@ -1,1 +1,1 @@
-# Video-C
+# Galeria.github.io
